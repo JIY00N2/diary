@@ -12,3 +12,7 @@
 [생성자 함수에 의한 객체 생성 / 함수와 일급 객체](https://velog.io/@jiyoon2/%EC%83%9D%EC%84%B1%EC%9E%90-%ED%95%A8%EC%88%98%EC%97%90-%EC%9D%98%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1)
 ## 프로토타입
 [프로토타입](https://velog.io/@jiyoon2/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-strict-mode)
+## strict mode / 빌트인 객체
+[strict mode / 빌트인 객체](https://velog.io/@jiyoon2/strict-mode-%EB%B9%8C%ED%8A%B8%EC%9D%B8-%EA%B0%9D%EC%B2%B4)
+## this
+[this](https://velog.io/@jiyoon2/9-this)
