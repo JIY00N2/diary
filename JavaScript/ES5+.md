@@ -6,3 +6,5 @@
 [ES5+(callback / promise / async & await)](https://velog.io/@jiyoon2/ES5callback-promise-async-await)
 ## ES5+(JSON)
 [ES5+(JSON)](https://velog.io/@jiyoon2/ES5JSON)
+## 문자열 관련 함수
+[문자열 관련 함수](https://velog.io/@jiyoon2/%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98)
