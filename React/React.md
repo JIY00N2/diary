@@ -6,5 +6,7 @@
 [JSX 문법](https://velog.io/@jiyoon2/3.-JSX-%EB%AC%B8%EB%B2%95)
 ## 4. Component
 [component](https://velog.io/@jiyoon2/4.-Component)
-## 5 Event / 내부 상태관리 useState / 생애주기 useEffect / 고유한 key
+## 5. Event / 내부 상태관리 useState / 생애주기 useEffect / 고유한 key
 [Event / 내부 상태관리 useState / 생애주기 useEffect / 고유한 key](https://velog.io/@jiyoon2/5-Event)
+## 6. 상태 관리 예제 및 라이브러리
+[상태 관리 예제 및 라이브러리](https://velog.io/@jiyoon2/6-useState-%EC%8B%AC%ED%99%94)
