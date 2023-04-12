@@ -12,3 +12,9 @@
 [상태 관리 예제 및 라이브러리](https://velog.io/@jiyoon2/6-useState-%EC%8B%AC%ED%99%94)
 ## 7. Form
 [Form](https://velog.io/@jiyoon2/7-Form)
+## 8. 컴포넌트의 재사용
+[컴포넌트의 재사용](https://velog.io/@jiyoon2/8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98-%EC%9E%AC%EC%82%AC%EC%9A%A9-xc4lmekn)
+## 9. Context
+[Context](https://velog.io/@jiyoon2/9-Context)
+## 10. 성능 개선
+[성능 개선](https://velog.io/@jiyoon2/10-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0)
