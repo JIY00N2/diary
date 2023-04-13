@@ -20,3 +20,5 @@
 [성능 개선](https://velog.io/@jiyoon2/10-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0)
 ## 11. CSS used in React
 [CSS used in React](https://velog.io/@jiyoon2/series/React)
+## 12. 실습 정리
+[실습 정리](https://velog.io/@jiyoon2/12-%EC%8B%A4%EC%8A%B5-%EC%A0%95%EB%A6%AC)
