@@ -10,3 +10,8 @@
 [캡스톤 깃허브에 업로드하면서 겪은 시행착오들](https://velog.io/@jiyoon2/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90-%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0)
 ## Publishing on Github Pages (with static website)
 [Publishing on Github Pages (with static website)](https://velog.io/@jiyoon2/Publishing-on-Github-Pages-with-static-website)
+## README 기술스택 아이콘
+```javascript
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+```
+https://simpleicons.org/
