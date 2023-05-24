@@ -29,3 +29,5 @@
 ## Todo 정리
 [Todo 정리1](https://velog.io/@jiyoon2/12-%EC%8B%A4%EC%8A%B5-%EC%A0%95%EB%A6%AC)
 [Todo 정리2](https://velog.io/@jiyoon2/Todo-%EC%A0%95%EB%A6%AC2)
+## React 간단 복습
+[React 간단 복습](https://velog.io/@jiyoon2/React-%EA%B0%84%EB%8B%A8-%EB%B3%B5%EC%8A%B5)
