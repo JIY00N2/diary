@@ -20,3 +20,11 @@
 [클로저](https://velog.io/@jiyoon2/10-%ED%81%B4%EB%A1%9C%EC%A0%80)
 ## 클래스
 [클래스](https://velog.io/@jiyoon2/11-%ED%81%B4%EB%9E%98%EC%8A%A4)
+## 함수 VS 함수의 호출
+[함수 VS 함수의 호출](https://velog.io/@jiyoon2/%ED%95%A8%EC%88%98-VS-%ED%95%A8%EC%88%98%EC%9D%98-%ED%98%B8%EC%B6%9C)
+## 스코프 체인 / this
+[스코프 체인 / this](https://velog.io/@jiyoon2/%EC%8A%A4%EC%BD%94%ED%94%84-%EC%B2%B4%EC%9D%B8-this)
+## 블록스코프와 매개변수(호출스택, 선언지도)
+[블록스코프와 매개변수(호출스택, 선언지도)](https://velog.io/@jiyoon2/%EB%B8%94%EB%A1%9D%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%ED%98%B8%EC%B6%9C%EC%8A%A4%ED%83%9D-%EC%84%A0%EC%96%B8%EC%A7%80%EB%8F%84)
+## 프로미스 / async & await
+[프로미스 / async & await](https://velog.io/@jiyoon2/%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4-async-await)
